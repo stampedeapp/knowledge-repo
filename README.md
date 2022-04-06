@@ -1,6 +1,5 @@
 # Knowledge Repo
 
-<<<<<<< HEAD
 [![PyPI](https://img.shields.io/pypi/status/knowledge-repo.svg)]()
 [![license](https://img.shields.io/github/license/airbnb/knowledge-repo.svg)]()
 [![PyPI version](https://badge.fury.io/py/knowledge-repo.svg)](https://badge.fury.io/py/knowledge-repo)
@@ -31,7 +30,6 @@ For more information about the motivation and inspiration behind this project, w
 ![post_form](https://user-images.githubusercontent.com/8813413/83345204-49490280-a2c5-11ea-97e3-248192b01526.png)
 
 ![stats](https://user-images.githubusercontent.com/8813413/83345205-49490280-a2c5-11ea-9af2-2a01b69ae584.png)
-
 
 
 
